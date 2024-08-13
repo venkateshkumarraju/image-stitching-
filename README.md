@@ -121,7 +121,7 @@ You can install these dependencies using the following command:
 
 ```sh
 pip install opencv-python matplotlib numpy
-
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
