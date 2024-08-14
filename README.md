@@ -103,11 +103,7 @@ Ensure you have the following installed:
     ```python
     image_folder = r'C:/Users/rajuv/Desktop/home'
     ```
-3. Run the script:
-
-    ```sh
-    python image_stitching.py
-    ```
+3. Run the notebook:
 
 4. The resulting stitched image will be saved as `stitched_image.jpg` in the current working directory and displayed using `matplotlib`.
 
@@ -122,6 +118,11 @@ You can install these dependencies using the following command:
 ```sh
 pip install opencv-python matplotlib numpy
 ```
+## Sample Output
+output for method 1
+![output1](https://github.com/user-attachments/assets/cc34c1f1-7b1e-4d6e-8c63-5bb53edf985b)
+output for method 2
+![output2](https://github.com/user-attachments/assets/5d9175f3-8047-4092-9460-527e9384b746)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -131,7 +132,7 @@ For any questions, suggestions, or feedback, please contact us at raju.venkatesh
 
 ## FAQ
 What image formats are supported?
-Currently, the script supports JPG format for stitching.
+Currently, the notebook supports JPG format for stitching.
 
 How do I change the output file name?
 You can change the name of the output file by modifying this line in the script:
