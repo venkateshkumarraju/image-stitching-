@@ -119,9 +119,9 @@ You can install these dependencies using the following command:
 pip install opencv-python matplotlib numpy
 ```
 ## Sample Output
-output for method 1
+output for method panorama 
 ![output1](https://github.com/user-attachments/assets/cc34c1f1-7b1e-4d6e-8c63-5bb53edf985b)
-output for method 2
+output for method  scan
 ![output2](https://github.com/user-attachments/assets/5d9175f3-8047-4092-9460-527e9384b746)
 
 ## License
