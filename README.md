@@ -127,8 +127,7 @@ output for method scan
 
 ![output2](https://github.com/user-attachments/assets/5d9175f3-8047-4092-9460-527e9384b746)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## Contact
 For any questions, suggestions, or feedback, please contact us at raju.venkateshkumar@gmail.com 
